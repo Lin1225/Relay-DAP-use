@@ -1,0 +1,2 @@
+test
+-DCATKIN_DEVEL_PREFIX=/home/iclab/Desktop/cat/devel -DCMAKE_INSTALL_PREFIX=/home/iclab/Desktop/cat/install -G Unix Makefiles
